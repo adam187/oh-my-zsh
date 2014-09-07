@@ -1,0 +1,3 @@
+[submodule "plugins/bd"]
+	path = plugins/bd
+	url = git@github.com:Tarrasch/zsh-bd.git
